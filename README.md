@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Xin chào! Tôi là Bùi Lê</h1>
+<h3 align="center">💻 Developer | 🎯 Học hỏi mỗi ngày | 📍 Việt Nam</h3>
 
-<!--
-**buile03/buile03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>“Code là hành trình, không phải đích đến.”</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Giới thiệu nhanh
+
+```js
+const buile = {
+  fullName: "Bùi Lê",
+  role: "Fullstack Web Developer",
+  techStack: ["C#", "ASP.NET MVC", "SQL Server", "JavaScript", "Flutter"],
+  tools: ["Visual Studio", "VSCode", "Git", "Postman", "Figma"],
+  currentlyLearning: ["React", "Entity Framework", "Clean Architecture"],
+  goal2025: "Trở thành một lập trình viên giỏi và có sản phẩm cá nhân",
+  funFact: "Rất yêu thích đá bóng và... không thể sống thiếu code 😄"
+}
