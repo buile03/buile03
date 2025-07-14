@@ -35,7 +35,7 @@ const buile = {
   funFact: "⚽ Rất yêu thích đá bóng và... không thể sống thiếu code 😄"
 }
 
-
+```
 ---
 
 ## 🧰 Công nghệ tôi dùng
